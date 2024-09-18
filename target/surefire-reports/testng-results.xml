@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-06T20:29:28 EDT" name="First" finished-at="2024-07-06T20:31:39 EDT" duration-ms="131343">
+    <groups>
+    </groups>
+    <test started-at="2024-07-06T20:29:28 EDT" name="FirstTest-0" finished-at="2024-07-06T20:31:39 EDT" duration-ms="131343">
+      <class name="com.browserstack.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.FirstTest@5496c165]" started-at="2024-07-06T20:29:28 EDT" name="setUp" finished-at="2024-07-06T20:30:40 EDT" duration-ms="72459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.FirstTest@5496c165]" started-at="2024-07-06T20:30:40 EDT" name="test" finished-at="2024-07-06T20:31:37 EDT" duration-ms="57008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.FirstTest@5496c165]" started-at="2024-07-06T20:31:37 EDT" name="tearDown" finished-at="2024-07-06T20:31:39 EDT" duration-ms="1532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.FirstTest -->
+    </test> <!-- FirstTest-0 -->
+  </suite> <!-- First -->
+</testng-results>

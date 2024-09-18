@@ -1,0 +1,119 @@
+18:45:50.866 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+18:45:50.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+18:45:51.156 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\testng-examples, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\testng-examples, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+18:45:51.158 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\cs2510\EclipseWorkspace\testng-examples\browserstack.yml
+18:45:51.254 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:45:51.843 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./BStackSampleApp.ipa to browserstack
+18:45:56.437 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/69ab8975d4f933e22cddfc905f215eb49b340585"}
+18:45:56.437 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://69ab8975d4f933e22cddfc905f215eb49b340585]
+18:45:56.437 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:45:58.201 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:45:58.550 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:46:06.558 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:46:41.152 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/n2twberqnmy2ahx45kehgnwl35mcavrkuh0nigny to view build report, insights, and many more debugging information all at one place!
+
+18:46:41.152 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+18:46:44.698 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/e2a40ccb9488d6f595d4b6fd731bf641174ba172
+18:46:44.698 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:01:57.525 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+19:01:57.529 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+19:01:57.847 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\testng-examples, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\testng-examples, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+19:01:57.849 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\cs2510\EclipseWorkspace\testng-examples\browserstack.yml
+19:01:57.968 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:01:58.718 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./BStackSampleApp.ipa to browserstack
+19:02:00.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/69ab8975d4f933e22cddfc905f215eb49b340585"}
+19:02:00.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://69ab8975d4f933e22cddfc905f215eb49b340585]
+19:02:00.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:02:02.940 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:02:03.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:02:08.036 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:02:37.638 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/u9m4nbprw0qpzv34iwcvmzawhmjbbrjoxvukz6vz to view build report, insights, and many more debugging information all at one place!
+
+19:02:37.638 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:02:41.390 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/85a75551e1b21c0793de641cb689a0af3536e865
+19:02:41.390 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:55:31.762 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+13:55:31.766 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+13:55:32.031 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\Java Projects\\EclipseWorkspace\\sc-ipa-attempt, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\Java Projects\\EclipseWorkspace\\sc-ipa-attempt, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+13:55:32.033 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\Java Projects\EclipseWorkspace\sc-ipa-attempt\browserstack.yml
+13:55:32.126 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:55:32.641 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./com.toyopagroup.picaboo_12.90.0.43_und3fined.ipa to browserstack
+13:56:19.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/e1be6cd9c520e6d98ea923bf019115cb92ea1be3"}
+13:56:19.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://e1be6cd9c520e6d98ea923bf019115cb92ea1be3]
+13:56:19.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:56:20.971 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:56:21.301 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:56:27.367 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:58:22.089 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/izikanxdihrgq7lgebqgl6aqxji6uj2k8fenu63o to view build report, insights, and many more debugging information all at one place!
+
+13:58:22.090 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:58:25.578 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/664d5b680f5fb9f50d039c358ae54d5e4bcb3bcd
+13:58:25.578 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:40:55.160 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+14:40:55.164 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+14:40:55.372 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\Java Projects\\EclipseWorkspace\\sc-ipa-attempt, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\Java Projects\\EclipseWorkspace\\sc-ipa-attempt, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+14:40:55.373 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\Java Projects\EclipseWorkspace\sc-ipa-attempt\browserstack.yml
+14:40:55.445 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:40:55.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./com.toyopagroup.picaboo_12.90.0.43_und3fined.ipa to browserstack
+14:41:19.391 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/e1be6cd9c520e6d98ea923bf019115cb92ea1be3"}
+14:41:19.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://e1be6cd9c520e6d98ea923bf019115cb92ea1be3]
+14:41:19.393 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:41:21.118 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+14:41:21.496 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:41:26.136 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:42:51.896 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/aujoxjwx1bh86yzeitk8z9fsfnyejfib39temhnl to view build report, insights, and many more debugging information all at one place!
+
+14:42:51.896 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:42:55.516 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/58f2ca4b4ce1f7caca3556c56437ee17f9cabb31
+14:42:55.516 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:51:21.861 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:51:21.864 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+15:51:22.106 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\sc-ipa-attempt, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\sc-ipa-attempt, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+15:51:22.108 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\cs2510\EclipseWorkspace\sc-ipa-attempt\browserstack.yml
+15:51:22.180 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:51:22.683 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./com.toyopagroup.picaboo_12.90.0.43_und3fined.ipa to browserstack
+15:51:42.947 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/e1be6cd9c520e6d98ea923bf019115cb92ea1be3"}
+15:51:42.948 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://e1be6cd9c520e6d98ea923bf019115cb92ea1be3]
+15:51:42.948 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:51:44.740 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:51:45.169 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:51:49.563 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:54:01.437 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/8whvlq7zjbkr2kopj5ljvaiuelftfbe1w1hlozo3 to view build report, insights, and many more debugging information all at one place!
+
+15:54:01.437 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:54:04.826 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d6330c0cd621562563b3c5204709a6ef03da45d3
+15:54:04.828 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:26.095 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:37:26.099 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+16:37:26.346 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\sc-ipa-attempt, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\sc-ipa-attempt, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+16:37:26.348 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\cs2510\EclipseWorkspace\sc-ipa-attempt\browserstack.yml
+16:37:26.435 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:37:26.954 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./com.toyopagroup.picaboo_12.90.0.43_und3fined.ipa to browserstack
+16:37:48.702 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/e1be6cd9c520e6d98ea923bf019115cb92ea1be3"}
+16:37:48.703 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://e1be6cd9c520e6d98ea923bf019115cb92ea1be3]
+16:37:48.703 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:37:50.465 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:37:50.807 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:37:55.081 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:40:00.010 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lx8odze9wnijrci0owun6n7hehjrztphnvh6rzbr to view build report, insights, and many more debugging information all at one place!
+
+16:40:00.010 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:03.638 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/42cbe7e2bbb73b66056146489d079fbc7a65f391
+16:40:03.638 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:28:53.670 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+20:28:53.676 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+20:28:53.937 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\sc-ipa-attempt, idea.version=2023.2.4, user.dir=C\:\\Users\\arcda\\Documents\\cs2510\\EclipseWorkspace\\sc-ipa-attempt, localrepository=C\:\\Users\\arcda\\.m2\\repository}
+20:28:53.938 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\arcda\Documents\cs2510\EclipseWorkspace\sc-ipa-attempt\browserstack.yml
+20:28:54.018 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:28:54.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./com.toyopagroup.picaboo_12.90.0.43_und3fined.ipa to browserstack
+20:29:20.360 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload response: {"app_url":"bs:\/\/e1be6cd9c520e6d98ea923bf019115cb92ea1be3"}
+20:29:20.361 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://e1be6cd9c520e6d98ea923bf019115cb92ea1be3]
+20:29:20.361 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+20:29:22.072 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+20:29:22.532 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+20:29:27.567 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+20:31:39.908 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/p2mqwugylseenydzmikqrje1p74bdvb4caiaakaz to view build report, insights, and many more debugging information all at one place!
+
+20:31:39.909 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:31:43.547 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/a4da467836a965f025d6f0552f7bd2ed7765336b
+20:31:43.548 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
